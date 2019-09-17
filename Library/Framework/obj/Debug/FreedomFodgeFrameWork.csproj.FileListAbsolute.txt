@@ -1,0 +1,22 @@
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\bin\Debug\FreedomFodgeFrameWork.dll
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\bin\Debug\FreedomFodgeFrameWork.pdb
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.AssemblyReference.cache
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.UserControl1.resources
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.GenerateResource.cache
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.CoreCompileInputs.cache
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.dll
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.pdb
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\bin\Debug\EZInput.dll
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\bin\Debug\EZInput.xml
+D:\Computer science\OOP\Business Application Project\Game\FreedomFodgeFrameWork\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.CopyComplete
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\bin\Debug\FreedomFodgeFrameWork.dll
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\bin\Debug\FreedomFodgeFrameWork.pdb
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\bin\Debug\EZInput.dll
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\bin\Debug\EZInput.xml
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.UserControl1.resources
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomF.E9532EF6.Up2Date
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.dll
+C:\Users\Administrator\Desktop\OOP GAME\Library\FreedomFodgeFrameWork\obj\Debug\FreedomFodgeFrameWork.pdb

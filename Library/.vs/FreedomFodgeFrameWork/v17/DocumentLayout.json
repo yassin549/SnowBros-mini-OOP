@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|c:\\users\\administrator\\desktop\\oop game\\library\\freedomfodgeframework\\gl\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\gl\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\gl\\gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\gravity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\gl\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\gl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\gl\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\gl\\objecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\collisions\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\collisions\\enemycollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\enemies\\verticalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\enemies\\verticalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\enemies\\randomenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\enemies\\randomenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\enemies\\horizontalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\enemies\\horizontalenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\enemies\\enemydirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\enemies\\enemydirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\freedomfodgeframework\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082D4012-C8C3-4FE1-842B-751E806E1E57}|FreedomFodgeFrameWork\\FreedomFodgeFrameWork.csproj|solutionrelative:freedomfodgeframework\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gravity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Gravity.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\Gravity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Gravity.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\Gravity.cs",
+              "ViewState": "AQIAAAwAAACAZmZmZmYSwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:42:24.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fire.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Fire.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\Fire.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Fire.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\Fire.cs",
+              "ViewState": "AQIAAAcAAACAAAAAAIAZwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:40:11.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectType.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\ObjectType.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\ObjectType.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\ObjectType.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\ObjectType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:36:40.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Collisions\\EnemyCollision.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Collisions\\EnemyCollision.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Collisions\\EnemyCollision.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Collisions\\EnemyCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:36:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Maze.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\Maze.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Maze.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\Maze.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:33:33.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Game.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\Game.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Game.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\Game.cs",
+              "ViewState": "AQIAAD4AAAAAaGZmZmYZwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:31:07.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerticalEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\VerticalEnemy.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Enemies\\VerticalEnemy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\VerticalEnemy.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Enemies\\VerticalEnemy.cs",
+              "ViewState": "AQIAAIwAAAAAMjMzM7MmwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:28:22.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandomEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\RandomEnemy.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Enemies\\RandomEnemy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\RandomEnemy.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Enemies\\RandomEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:28:20.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HorizontalEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\HorizontalEnemy.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Enemies\\HorizontalEnemy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\HorizontalEnemy.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Enemies\\HorizontalEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:28:16.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyDirection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\EnemyDirection.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Enemies\\EnemyDirection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\EnemyDirection.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Enemies\\EnemyDirection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:28:13.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\Enemies\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\Enemies\\Enemy.cs",
+              "ViewState": "AQIAABAAAAAAIDMzMzPjvyoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:28:02.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Player.cs",
+              "RelativeDocumentMoniker": "FreedomFodgeFrameWork\\GL\\Player.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\OOP GAME\\Library\\FreedomFodgeFrameWork\\GL\\Player.cs",
+              "RelativeToolTip": "FreedomFodgeFrameWork\\GL\\Player.cs",
+              "ViewState": "AQIAABMBAABABgAAAAAmwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T23:13:28.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
